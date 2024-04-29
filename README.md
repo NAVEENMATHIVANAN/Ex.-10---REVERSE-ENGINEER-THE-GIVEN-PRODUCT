@@ -1,4 +1,4 @@
-# Ex.   - REVERSE ENGINEER THE GIVEN PRODUCT
+# Ex.04   - REVERSE ENGINEER THE GIVEN PRODUCT
 
 ### DATE: 
 
@@ -31,12 +31,16 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/e196f33e-0f24-4f86-853b-7e7caf7cf988)
+
+
+
 
 ### Output:
+![image](https://github.com/NARESHVB/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/119393642/2f2169e7-704d-4dc9-b2b7-688f6d3801fd)
 
-
-### Name:
-### Register Number:
+### Name: Naveen Kumar M
+### Register Number: 212222110028
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
